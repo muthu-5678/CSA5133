@@ -39,6 +39,3 @@ print("Encrypted message:", encrypted)
 
 decrypted = decrypt(encrypted, key)
 print("Decrypted message:", decrypted)
-
-
-OUTPUT :
